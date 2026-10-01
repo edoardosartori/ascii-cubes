@@ -1,4 +1,4 @@
-# Exercise - ASCII 3D CUBE RENDERER
+# Exercise - ASCII 3D Cubes Rendered
 
 
 ![demo](docs/demo.gif)
